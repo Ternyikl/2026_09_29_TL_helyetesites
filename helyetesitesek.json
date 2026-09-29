@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Eustace Durrett",
+    "hours": 6,
+    "dayofweek": "Kedd"
+  },
+  {
+    "id": 2,
+    "name": "Gilda Olenchenko",
+    "hours": 6,
+    "dayofweek": "Péntek"
+  },
+  {
+    "id": 3,
+    "name": "Matthew Mayfield",
+    "hours": 6,
+    "dayofweek": "Hétfő"
+  },
+  {
+    "id": 4,
+    "name": "Erinn Moakes",
+    "hours": 4,
+    "dayofweek": "Csütörtök"
+  },
+  {
+    "id": 5,
+    "name": "Antoine Roebottom",
+    "hours": 6,
+    "dayofweek": "Hétfő"
+  },
+  {
+    "id": 6,
+    "name": "Netti Roebottom",
+    "hours": 6,
+    "dayofweek": "Kedd"
+  },
+  {
+    "id": 7,
+    "name": "Gayel Spellissy",
+    "hours": 3,
+    "dayofweek": "Hétfő"
+  },
+  {
+    "id": 8,
+    "name": "Nicola Masarrat",
+    "hours": 4,
+    "dayofweek": "Péntek"
+  },
+  {
+    "id": 9,
+    "name": "Noelle Hessel",
+    "hours": 2,
+    "dayofweek": "Kedd"
+  },
+  {
+    "id": 10,
+    "name": "Lewie Sambiedge",
+    "hours": 7,
+    "dayofweek": "Szerda"
+  }
+]
